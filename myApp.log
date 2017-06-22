@@ -1,0 +1,7 @@
+09:51:56.205 [main] INFO  a.c.f.FxCalculatorApplication - Starting FxCalculatorApplication on DELL with PID 1064 (C:\Users\HUZEFA\dev\fx-calculator\target\classes started by HUZEFA in C:\Users\HUZEFA\dev\fx-calculator)
+09:51:56.210 [main] INFO  a.c.f.FxCalculatorApplication - No active profile set, falling back to default profiles: default
+09:51:56.314 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@314c508a: startup date [Thu Jun 22 09:51:56 IST 2017]; root of context hierarchy
+09:51:57.400 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+09:51:57.417 [main] INFO  a.c.f.FxCalculatorApplication - Started FxCalculatorApplication in 1.599 seconds (JVM running for 2.375)
+09:51:57.424 [Thread-2] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@314c508a: startup date [Thu Jun 22 09:51:56 IST 2017]; root of context hierarchy
+09:51:57.425 [Thread-2] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
